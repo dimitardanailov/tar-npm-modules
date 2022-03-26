@@ -1,0 +1,30 @@
+{
+  "name": "tar-npm-modules",
+  "version": "1.0.0",
+  "description": "The project is able to archive node_modules folder",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dimitardanailov/tar-npm-modules.git"
+  },
+  "keywords": [
+    "compress",
+    "tar",
+    "unzip",
+    "zip",
+    "tar.gz"
+  ],
+  "author": "Dimitar Danailov <dimityr.danailov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitardanailov/tar-npm-modules/issues"
+  },
+  "homepage": "https://github.com/dimitardanailov/tar-npm-modules#readme",
+  "devDependencies": {
+    "prettier": "2.6.1"
+  },
+  "dependencies": {
+    "tar": "^6.1.11"
+  }
+}
